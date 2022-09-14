@@ -2,7 +2,7 @@
 
 > “Crypto Enthusiast & Testnet Node Runner.”
 > 
-> <img align="top" src="https://komarev.com/ghpvc/?username=nodesxploit&color=green"/>
+> <img align="top" src="https://komarev.com/ghpvc/?username=nodesxploit&color=blue"/>
 
 ### Contact Me
 
