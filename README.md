@@ -1,4 +1,4 @@
-### Hi there, I'm NodeX | WannaCry? 👋
+### Hi there, I'm NodeX | WannaCry? 👋 --- <img align="top" src="https://komarev.com/ghpvc/?username=nodesxploit&color=blueviolet"/>
 
 > “Crypto Enthusiast & Testnet Node Runner.”
 
