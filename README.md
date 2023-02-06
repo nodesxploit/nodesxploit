@@ -1,17 +1,11 @@
-### Hi there, I'm NodeX | WannaCry? 👋
+### Whyme | NodeX Capital
 
-> “Crypto Enthusiast & Testnet Node Runner.”
+> “Your Trusted Staking Provider - Best Uptime 24/7 Monitoring ❤️”
 
-### Contact Me
-
-> 🌐 [Website](https://nodex.codes) </> 💬 [Discord](https://discordapp.com/users/928575843641479198) </> ✨ [Twitter](https://twitter.com/nodexploit)
-
-### Viewers
-> <img align="top" src="https://komarev.com/ghpvc/?username=nodesxploit&color=blue"/>
 
 ### Stats 🔥
-[![NodeX's GitHub stats](https://github-readme-stats.vercel.app/api?username=nodesxploit&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![NodeX's GitHub stats](https://github-readme-stats.vercel.app/api?username=nodexcapital&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nodesxploit&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nodexcapital&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
